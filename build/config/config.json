@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xFB8154B029aa51d13AFaa910E976B95845383EC0",
+  "SCAN_LINK": "https://polygonscan.com/address/0xfb8154b029aa51d13afaa910e976b95845383ec0",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Eraser Heads Lead Rebellion",
+  "SYMBOL": "EHLR",
+  "MAX_SUPPLY": 11111,
+  "WEI_COST": 22000000000000000000,
+  "DISPLAY_COST": 22,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/eraserheadsleadrebellion",
+  "SHOW_BACKGROUND": true
+}
